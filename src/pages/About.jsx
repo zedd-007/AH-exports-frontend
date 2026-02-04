@@ -1,5 +1,5 @@
 import React from "react";
-import owner from "C:/Users/Zaid Chikte/Desktop/Ahaan Hande/frontend/src/assets/owner.jpeg";
+import owner from "../../assets/owner.jpeg";
 
 const About = () => {
   return (
