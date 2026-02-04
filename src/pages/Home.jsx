@@ -1,4 +1,4 @@
-import logo from "../../assets/logo1.jpg"
+import logo from "../assets/logo1.jpg"
 import { Link } from "react-router-dom";
 import FeatureCarousel from "../components/FeatureCarousel";
 
